@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "AWSALB",
+      "value": "H0/dsimDRv2fsq8y9TEZJo/zodXu+K98dwwEaDGkWXk9URMN+RlSgZ88X+IiEwj4e13oxkUsUFkfX/kv0LIEo3mmyg8SZsLX/A8p8ERzV0nbI3b6DZxw4eiyIGdj",
+      "domain": "rc.stg.xytech.fabricdata.com",
+      "path": "/",
+      "expires": 1778499044.325103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "H0/dsimDRv2fsq8y9TEZJo/zodXu+K98dwwEaDGkWXk9URMN+RlSgZ88X+IiEwj4e13oxkUsUFkfX/kv0LIEo3mmyg8SZsLX/A8p8ERzV0nbI3b6DZxw4eiyIGdj",
+      "domain": "rc.stg.xytech.fabricdata.com",
+      "path": "/",
+      "expires": 1778499044.325703,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
